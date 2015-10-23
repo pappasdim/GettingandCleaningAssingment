@@ -4,19 +4,17 @@
 
 Identification Variables
 
-  subject
-
-	An identifier of the subject who carried out the experiment (1-30)
+  subject	
+		An identifier of the subject who carried out the experiment (1-30)
   
-  activity
-
-	performed activities 
-		WALKING
-		WALKING_UPSTAIRS	
-		WALKING_DOWNSTAIRS
-		SITTING
-		STANDING
-		LAYING
+  activity	
+		performed activities 
+			WALKING
+			WALKING_UPSTAIRS	
+			WALKING_DOWNSTAIRS
+			SITTING
+			STANDING
+			LAYING
 
 Measurments Variables
    contain the average of that variable for the given subject and activity.
