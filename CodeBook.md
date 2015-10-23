@@ -5,12 +5,14 @@
 Identification Variables
 
   subject
+
 	An identifier of the subject who carried out the experiment (1-30)
   
   activity
+
 	performed activities 
 		WALKING
-		WALKING_UPSTAIRS
+		WALKING_UPSTAIRS	
 		WALKING_DOWNSTAIRS
 		SITTING
 		STANDING
